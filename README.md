@@ -25,7 +25,5 @@
 <div style="display:flex;flex-direction:column">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riz1-k&show_icons=true&locale=en&layout=compact" alt="riz1-k" /></p>  <br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riz1-k&show_icons=true&locale=en" alt="riz1-k" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riz1-k&" alt="riz1-k" /></p>
   </div>
